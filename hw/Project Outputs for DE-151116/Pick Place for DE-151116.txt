@@ -1,0 +1,27 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C1         0603                   390mil     490.63mil        390mil     490.63mil        390mil    524.094mil  B        270.00 10pF           
+C2         0603                   280mil        360mil        280mil        360mil    246.536mil        360mil  B        360.00 C0603          
+C3         0603                  2950mil     505.63mil       2950mil     505.63mil       2950mil    539.094mil  B        270.00 10pF           
+C4         0603                  2850mil     335.63mil       2850mil     335.63mil   2816.535mil     335.63mil  B        360.00 100nF          
+C5         0603                  1110mil    500.449mil       1110mil    500.449mil       1110mil    466.984mil  B         90.00 100nF          
+C6         0805                   880mil        490mil        880mil        490mil        880mil    452.599mil  B         90.00 4u7            
+D1         1.6X0.8X0.8       2755.905mil    827.716mil   2755.905mil    827.716mil   2726.378mil    827.716mil  B        360.00 RED_LED        
+D2         1.6X0.8X0.8        393.701mil    827.716mil    393.701mil    827.716mil    364.173mil    827.716mil  B        360.00 BLUE_LED       
+D3         1.6X0.8X0.8       1811.024mil    827.716mil   1811.024mil    827.716mil   1840.551mil    827.716mil  B        180.00 RED_LED        
+D4         1.6X0.8X0.8       1338.583mil    827.716mil   1338.583mil    827.716mil   1309.055mil    827.716mil  B        360.00 GREEN_LED      
+D5         1.6X0.8X0.8       1574.803mil    119.055mil   1574.803mil    119.055mil   1545.275mil    119.055mil  B        360.00 WHITE_LED      
+P3         HDR1X8            1574.803mil     505.63mil   1924.803mil     505.63mil   1924.803mil     505.63mil  T        180.00 Header 8       
+R1         ERA-0603              1670mil        595mil       1670mil        595mil   1636.535mil        595mil  B        360.00 330R           
+R2         ERA-0603               175mil        530mil        175mil        530mil        175mil    496.536mil  B         90.00 180R           
+R3         ERA-0603              1530mil        595mil       1530mil        595mil   1496.535mil        595mil  B        360.00 330R           
+R4         ERA-0603          1424.803mil        630mil   1424.803mil        630mil   1424.803mil    596.535mil  B         90.00 330R           
+R5         ERA-0603              1690mil        300mil       1690mil        300mil   1723.465mil        300mil  B        180.00 180R           
+R6         ERA-0805              1000mil        525mil       1000mil        525mil   1037.401mil        525mil  B        180.00 15R            
+R7         ERA-0603              2740mil     505.63mil       2740mil     505.63mil       2740mil    539.094mil  B        270.00 2K2            
+R8         ERA-0603              2740mil     375.63mil       2740mil     375.63mil       2740mil    409.094mil  B        270.00 3K3            
+R9         ERA-0603               115mil        465mil        115mil        465mil        115mil    498.464mil  B        270.00 2K2            
+R10        ERA-0603               175mil        395mil        175mil        395mil        175mil    428.464mil  B        270.00 3K3            
+U1         6ST1_N                 290mil     470.63mil        290mil     470.63mil    252.598mil    517.874mil  B        270.00 TTP223-BA6     
+U2         6ST1_N                2850mil     485.63mil       2850mil     485.63mil   2812.598mil    532.874mil  B        270.00 TTP223-BA6     
+
